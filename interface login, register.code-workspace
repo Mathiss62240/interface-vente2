@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "vendor",
+			"path": "../../../NiceAdmin/assets/vendor"
+		},
+		{
+			"name": "interfae de vente",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../../../NiceAdmin/assets/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "interfae de vente"
+	}
+}
